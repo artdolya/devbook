@@ -1,14 +1,25 @@
 # Comparing C# vs Java
 * Overview
 * Types
+    * value types
+
+    * reference types
+        * strings
+            * formatting
 * Enumerations
 * Classes
+    * Inheritance
 * Records
 * Interfaces
-* Generics
+* Operators
+    * Pattern matching
+    * conditional
+    * loops
 * Collections
+    * arrays
 * Lambdas
 * Exceptions
+* Extensions
 
 # Bonus
 * Logging
@@ -16,3 +27,4 @@
     * Threads
     * Deadlocks
 * Deployment
+* Testing
