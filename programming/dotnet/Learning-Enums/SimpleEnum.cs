@@ -2,6 +2,8 @@
 
 public enum SimpleEnum
 {
-    Uno = 1,
-    Tres = 3,
+    Cero,
+    Uno,
+    Dos,
+    Tres,
 }
